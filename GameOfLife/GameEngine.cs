@@ -64,7 +64,6 @@ namespace GameOfLife
 
             return result;
         }
-
         private int countNeighbours(int x, int y)
         {
             int count = 0;
